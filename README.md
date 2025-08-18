@@ -11,6 +11,7 @@
 - CSS
 - JS
 - TS
+- React
 - Git
 
 <!--
