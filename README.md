@@ -7,7 +7,10 @@
 - 🖥️Сейчас в активном поиске работы.
 
 ### 🛠️Языки и инструменты
-JS TS HTML CSS
+- JS
+- TS
+- HTML
+- CSS
 
 <!--
 **Gavrilov-A/Gavrilov-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
