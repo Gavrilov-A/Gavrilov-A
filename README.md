@@ -24,15 +24,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### Методологии и принципы
-- ✅ Адаптивная верстка
-- ✅ Кросс-браузерная совместимость
-- ✅ Доступность (a11y)
-- ✅ Чистый и поддерживаемый код
-- ✅ Agile / Scrum
-
----
-
 ## 📬 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gavrilov_aa1)
