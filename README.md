@@ -1,34 +1,59 @@
-## Всем привет, меня зовут Андрей. Я frontend разарботчик👋
+# 👋 Привет, я Андрей, frontend разарботчик!
 
-### Обо мне
-Я фронтенд разаработчик.
-- 📖Акивно занимаюсь изучением инструментов разработки.
-- 👨‍🎓Хочу и дальше накапливать знания и набираться опыта.
-- 🖥️Сейчас в активном поиске работы.
+## 🚀 Обо мне
+Интерес к фронтенд-разработке появился ещё в школе: познакомился с HTML, CSS и JavaScript, создавал небольшие лендинги.
+Осознанно вернулся к разработке около года назад: изучал базовые инструменты фронтенд-разработчика, работал с React и TypeScript, реализовал несколько учебных и проектных SPA-приложений.
+Постоянно развиваю навыки: изучаю углублённый TypeScript (книга Дэна Вандеркама «Эффективный TypeScript»), решаю алгоритмические задачи на LeetCode, слежу за трендами в области AI.
+Мотивирует результат сложной, продуманной работы и постепенный рост инженерных навыков.
 
-### 🛠️Навыки & Технологии
-<div >
-  <!-- Иконки технологий -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-       title="HTML" alt="HTML" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-       title="CSS" alt="CSS" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-       title="TypeScript" alt="TypeScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-       title="JavaScript" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-       title="React" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-       title="Redux" alt="Redux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg"
-       title="React Router" alt="React Router" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-       title="Git" alt="Git" width="40" height="40" />
-</div>
+---
 
+## 💻 Технологии и инструменты
 
-## Как со мной связаться
+### Основные технологии
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- Telegram: `@a9dpey`
-- Email: `blockjok@yandex.ru`
+### Инструменты
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### Методологии и принципы
+- ✅ Адаптивная верстка
+- ✅ Кросс-браузерная совместимость
+- ✅ Доступность (a11y)
+- ✅ Чистый и поддерживаемый код
+- ✅ Agile / Scrum
+
+---
+
+## 📬 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gavrilov_aa1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blockjok@yandex.ru)
+
+---
+
+## 🎓 Что я ищу
+
+- 🏢 Работу в качестве **Junior/Middle Frontend-разработчика**
+- 🤝 Команду с наставничеством и возможностью роста
+- 🚀 Реальные проекты для развития навыков
+- 💡 Обмен опытом и постоянное обучение
+
+---
+
+## 🎯 Цели на ближайшее время
+
+- [ ] Углубить знания в оптимизации производительности
+- [ ] Получить первый коммерческий опыт
+
+---
+
+⭐ _Спасибо, что заглянули! Буду рад обсудить возможности сотрудничества._
