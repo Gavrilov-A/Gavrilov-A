@@ -20,7 +20,7 @@
 - Проводил код-ревью и обеспечивал соблюдение единых стандартов разработки.
 - Участвовал в принятии архитектурных и технических решений.
 Стек: React, TypeScript, Redux, React Router, Vite, React hook form
-GitHub: https://github.com/Gavrilov-A/SkillSwap_41_5
+GitHub: https://github.com/Gavrilov-A/SkillSwap_41_5/tree/develop
 
 2. Frontend-разработчик 
 Проект: Stellar Burger — веб-приложение онлайн-бургерной.
